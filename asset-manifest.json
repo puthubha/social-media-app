@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/social-media-app/static/css/main.2cad3d0d.css",
+    "main.js": "/social-media-app/static/js/main.11ac0d55.js",
+    "static/media/video.png": "/social-media-app/static/media/video.818233f73533a0be77e3.png",
+    "static/media/group.png": "/social-media-app/static/media/group.c8ce6ba52ef25b567cb2.png",
+    "static/media/gallery.png": "/social-media-app/static/media/gallery.8a13f0973f0d744db330.png",
+    "static/media/event.png": "/social-media-app/static/media/event.bd9f83918cff5c02014f.png",
+    "static/media/friends.png": "/social-media-app/static/media/friends.8f964b2c6527259de503.png",
+    "static/media/memories.png": "/social-media-app/static/media/memories.2ac309a10ab82b195460.png",
+    "static/media/gaming.png": "/social-media-app/static/media/gaming.1e3737c75cfc74c027e2.png",
+    "static/media/cources.png": "/social-media-app/static/media/cources.d4b4f5c83c3714637fad.png",
+    "static/media/messages.png": "/social-media-app/static/media/messages.3d51cbc50798f3751fa0.png",
+    "static/media/marketplace.png": "/social-media-app/static/media/marketplace.828719dcdb853c36e82c.png",
+    "index.html": "/social-media-app/index.html",
+    "main.2cad3d0d.css.map": "/social-media-app/static/css/main.2cad3d0d.css.map",
+    "main.11ac0d55.js.map": "/social-media-app/static/js/main.11ac0d55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cad3d0d.css",
+    "static/js/main.11ac0d55.js"
+  ]
+}
